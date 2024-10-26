@@ -1,2 +1,2 @@
 # srp-food-sodium
-measure and verify sodium in food 
+Measure and verify sodium in food. A program of Student Research Projects.
