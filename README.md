@@ -3,9 +3,11 @@ A separate application/module to empower student scientists to measure and verif
 
 # Purpose
 - A React project to provide results for measuring food nutrition
-- User requests research based on product and ingredient (pasta sauce and sodium)
-- User fund research
-- Student provides results
+- Users request research based on product and ingredient (pasta sauce and sodium)
+- Users fund research projects 
+- Students accept projects
+- Students post deliverable
+- Students receive payments
 
 ## Technology
 - Frontend: React
@@ -19,9 +21,11 @@ A separate application/module to empower student scientists to measure and verif
 
 ## Model
 - users
-- orders
-- results
-- reports
+- students
+- requestors
+- projects
+- nutrition
+- schools
 
 
 ## Use Cases
